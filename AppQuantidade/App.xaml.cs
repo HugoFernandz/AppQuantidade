@@ -10,7 +10,7 @@ namespace AppQuantidade
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MainPage(); // pagina chamada
         }
 
         protected override void OnStart()
